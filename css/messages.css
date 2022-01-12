@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Oxanium&display=swap");
+
+.animated{
+  padding: 10px;
+  background-color: rgba(73, 69, 69, 0.2);
+}
+.alert-error {
+  align-content: center;
+  text-align: center;
+  color: tomato;
+  width: auto;
+  height: auto;
+}
+#msg {
+  font-size: 16px;
+}
+.alert-success {
+  align-content: center;
+  text-align: center;
+  color: #00bf72;
+  width: auto;
+  height: auto;
+}
+
+.alert-msg {
+  align-content: center;
+  text-align: center;
+  color: #338dff;
+  width: auto;
+  height: auto;
+}
